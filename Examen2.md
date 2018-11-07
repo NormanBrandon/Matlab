@@ -7,7 +7,7 @@
 * 5.Escribe el codigo para crear una cuadricula que contiene 9 plots, usa subplot
 * 6.Como harias esta grafica?, considera que es una cuadricula de plots de 9 cuadros
 ![Grafica 1](g11.png)
-* 7.Codigo para sacar las raices del polinomio 
+* 7.Codigo para sacar las raices del polinomio ![Ecuacion1](https://latex.codecogs.com/gif.latex?x%5E%7B3%7D&plus;x-2)
 * 8.Que hace scatter?
 * 9.¿Con que comando guardo mi Workspace?
 * 10.¿Qué son los archivos csv?
