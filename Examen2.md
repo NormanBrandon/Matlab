@@ -12,4 +12,4 @@
 * 9.¿Con que comando guardo mi Workspace?
 * 10.¿Qué son los archivos csv?
 * 11.Si conduces un camion y se suben 10 personas despues se bajan 3 pero dos no te pagan, como se llama el conductor?
-$\fracc{x}{2}$
+$$\fracc{x}{2}$$
